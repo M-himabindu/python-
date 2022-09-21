@@ -14,3 +14,7 @@ climbing chair
 leap year
 no of words in sentance
 paranthesis
+climbstairs
+calc
+phone
+remove words
