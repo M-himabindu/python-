@@ -12,3 +12,5 @@ replacing char
 day 2
 climbing chair
 leap year
+no of words in sentance
+paranthesis
