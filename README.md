@@ -16,5 +16,19 @@ no of words in sentance
 paranthesis
 climbstairs
 calc
-phone
-remove words
+key word in ph
+common words
+season
+regular expresion 1
+DAY3
+array of integers
+anagrams
+project manager
+word1 to2
+trade share
+permutation
+regular expresion
+mirror image
+min num jumps
+binary
+DAY4
