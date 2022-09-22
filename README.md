@@ -32,3 +32,6 @@ mirror image
 min num jumps
 binary
 DAY4
+no of students
+sorted vowels
+scramble strings
