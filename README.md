@@ -35,3 +35,8 @@ DAY4
 no of students
 sorted vowels
 scramble strings
+delchar
+season
+fizzbuzz
+palindrome
+
