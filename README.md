@@ -39,4 +39,7 @@ delchar
 season
 fizzbuzz
 palindrome
+roman to int
+elements 5p
+smaller than greater
 
