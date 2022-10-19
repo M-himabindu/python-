@@ -51,3 +51,9 @@ maxindex
 rev word 
 pattern
 longest string
+shuffle
+matrix
+DAY6
+pattern 12 123
+swaping
+composite
