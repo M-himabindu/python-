@@ -57,3 +57,6 @@ DAY6
 pattern 12 123
 swaping
 composite
+factorial
+no of factors
+perfect num
