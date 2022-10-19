@@ -49,3 +49,5 @@ robot
 perfect square
 maxindex
 rev word 
+pattern
+longest string
